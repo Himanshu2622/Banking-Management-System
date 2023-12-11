@@ -1,2 +1,2 @@
 # Banking-Management-System
-![ss](Screenshot(24).png)
+![ss](banking.png)
